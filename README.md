@@ -105,5 +105,5 @@ Evaluation Metrics: RMSE (Root Mean Square Error), Precision@K, Recall@K
 
 
 ##  Author
-Lakshmi Pranathi Vutla
-Graduate Student – Computer Science, UMass Boston
+-Lakshmi Pranathi Vutla
+-Graduate Student – Computer Science, UMass Boston
